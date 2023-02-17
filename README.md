@@ -1,2 +1,2 @@
 # dio-desafio-html
-Desafio: Criar Uma Página Web Utilizando as Tags Aprendidas
+Repositório do desafio 1 do curso "Formação HTML Developer
